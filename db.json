@@ -1,4 +1,4 @@
-{  
+[  
     {  
         "name":"Cheesecake Factory",
         "cuisine":"American",
@@ -319,4 +319,4 @@
         "cuisine":"Chinese",
         "id":64
     }
-}
+]
